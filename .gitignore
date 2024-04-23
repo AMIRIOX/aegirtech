@@ -1,4 +1,14 @@
-build/
+# gradle: runClient
 run/
+build/
+
+# autogen
 .idea/
 .gradle/
+
+# design
+**/*.pdf
+# Krita Project
+**/*.kra
+ # backup
+**/*.bak
