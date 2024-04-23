@@ -1,0 +1,9 @@
+{
+  "item.aegirtech.src": "阿戈尔印记",
+  "itemGroup.aegirtech.aegir_group": "阿戈尔科技",
+  "item.aegirtech.energy_ore": "高能矿物",
+  "block.aegirtech.energy_ore": "高能矿物",
+  "item.aegirtech.energy_crystal": "高能水晶",
+  "item.aegirtech.energy_crystal.tooltip": "高能矿物的简单粉碎，似乎并不能高效地利用这些晶体",
+  "block.aegirtech.energy_ore.tooltip": "深海中并不罕见的不起眼蓝色矿物，含有现有手段无法定性的高能化合物"
+}
